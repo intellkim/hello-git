@@ -1,1 +1,2 @@
-"# Hello Git!" 
+"JiseongKim 2025-03-24" 
+"1234" 
